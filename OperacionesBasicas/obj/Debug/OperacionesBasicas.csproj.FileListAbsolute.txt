@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\OperacionesBasicas\OperacionesBasicas\bin\Debug\OperacionesBasicas.dll
+C:\Users\Usuario\source\repos\OperacionesBasicas\OperacionesBasicas\bin\Debug\OperacionesBasicas.pdb
+C:\Users\Usuario\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.dll
+C:\Users\Usuario\source\repos\OperacionesBasicas\OperacionesBasicas\obj\Debug\OperacionesBasicas.pdb

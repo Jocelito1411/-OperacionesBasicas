@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\OperacionesBasicas\PresentacionesOperaciones\bin\Debug\PresentacionesOperaciones.exe
+C:\Users\Usuario\source\repos\OperacionesBasicas\PresentacionesOperaciones\bin\Debug\PresentacionesOperaciones.pdb
+C:\Users\Usuario\source\repos\OperacionesBasicas\PresentacionesOperaciones\bin\Debug\OperacionesBasicas.dll
+C:\Users\Usuario\source\repos\OperacionesBasicas\PresentacionesOperaciones\bin\Debug\OperacionesBasicas.pdb
+C:\Users\Usuario\source\repos\OperacionesBasicas\PresentacionesOperaciones\obj\Debug\PresentacionesOperaciones.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\OperacionesBasicas\PresentacionesOperaciones\obj\Debug\PresentacionesOperaciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\OperacionesBasicas\PresentacionesOperaciones\obj\Debug\PresentacionesOperaciones.csproj.CopyComplete
+C:\Users\Usuario\source\repos\OperacionesBasicas\PresentacionesOperaciones\obj\Debug\PresentacionesOperaciones.exe
+C:\Users\Usuario\source\repos\OperacionesBasicas\PresentacionesOperaciones\obj\Debug\PresentacionesOperaciones.pdb
