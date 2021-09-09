@@ -16,7 +16,7 @@ namespace OperacionesBasicas
         public void calculadora()
         {
             int s1, s2, r;
-            Console.Write("Ingresa el numero a sumar:");
+            Console.Write("Ingresa el numero a sumar: xd");
             s1 = int.Parse(Console.ReadLine());
             Console.Write("Ingresa el  segundo numero a sumar:");
             s2 = int.Parse(Console.ReadLine());
